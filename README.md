@@ -1,5 +1,9 @@
 # DiseñadoraGraficaWebsite
 
+<p align="center" dir="auto">
+<img align="center" src="https://github.com/JoshVargasM3/PORTAFOLIO/blob/Main/GifImages/Frida%20Vargas%20-%20Marketing%20digital%20WEBPAGE.png" width="100%">
+</p>
+
 ## Descripción
 
 > Desarrollo de la interfaz grafica de un sitio web a manera de galeria de PORTAFOLIO con los trabajos del Cliente empleando HTML, CSS y JavaScript.

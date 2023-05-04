@@ -1,7 +1,7 @@
 # DiseñadoraGraficaWebsite
 
 <p align="center" dir="auto">
-<img align="center" src="https://github.com/JoshVargasM3/PORTAFOLIO/blob/Main/GifImages/Frida%20Vargas%20-%20Marketing%20digital%20WEBPAGE.png" width="100%">
+<img align="center" src="https://github.com/JoshVargasM3/PORTAFOLIO/blob/Main/GifImages/FridaVargasMarketingdigitalWEBPAGE.png" width="100%">
 </p>
 
 ## Descripción
